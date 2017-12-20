@@ -1,0 +1,6 @@
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.deps.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.AssemblyInfo.cs
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.pdb

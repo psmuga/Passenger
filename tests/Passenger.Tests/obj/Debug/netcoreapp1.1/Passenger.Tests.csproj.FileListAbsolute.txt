@@ -1,0 +1,15 @@
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.deps.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.runtimeconfig.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.runtimeconfig.dev.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.AssemblyInfo.cs
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.pdb

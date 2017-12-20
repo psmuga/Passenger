@@ -1,0 +1,12 @@
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.deps.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.runtimeconfig.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.runtimeconfig.dev.json
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.AssemblyInfo.cs
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Core.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Infrastructure.dll
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Infrastructure.pdb
+D:\Dokumenty\VisualStudioCodeProjects\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Core.pdb
