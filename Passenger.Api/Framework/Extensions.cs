@@ -7,4 +7,4 @@ namespace Passenger.Api.Framework
         public static  IApplicationBuilder UseExceptionsHandler(this IApplicationBuilder builder)
             => builder.UseMiddleware(typeof(ExceptionHandlerMiddleware));
     }
-}
+} 
